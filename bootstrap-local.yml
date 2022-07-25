@@ -1,0 +1,4 @@
+shenwan-regress:
+  address: 127.0.0.1
+  port: 9101
+  executor-handler: regress
