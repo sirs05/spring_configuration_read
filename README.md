@@ -1,1 +1,3 @@
 spring_configuration_read
+
+在 spring 中，设置属性，并自动读取属性初始化配置bean
